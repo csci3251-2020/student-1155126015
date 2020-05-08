@@ -1,7 +1,9 @@
 # About Me
 
 Hello, I am __LAU Wing Ho__ and you can call me __Anthony__.
+
 Major: __Computer Science__
+
 Experience in Github: __No__
 
 ## My experience of becoming a programmer
