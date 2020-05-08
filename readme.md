@@ -27,3 +27,6 @@ Experience in Github: __No__
 |      __user__     |           __image__                 |   __name__  |
 | :---------------: |:-----------------------------------:| :----------:|
 | Anthonylwh97      | https://github.com/Anthonylwh97.png | LAU Wing Ho |
+
+## Screenshot
+![alt text](https://github.com/csci3251-2020/student-1155126015/blob/master/screenshot.png "Logo Title Text 1")
